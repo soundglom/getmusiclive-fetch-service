@@ -1,0 +1,19 @@
+{
+  "name": "getmusiclive-fetch-service",
+  "version": "1.0.0",
+  "description": "Service for fetching data from public event API's",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soundglom/getmusiclive-fetch-service.git"
+  },
+  "author": "Muhsin Abdul-Musawwir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soundglom/getmusiclive-fetch-service/issues"
+  },
+  "homepage": "https://github.com/soundglom/getmusiclive-fetch-service#readme"
+}
