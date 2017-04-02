@@ -4,7 +4,8 @@
   "description": "Service for fetching data from public event API's",
   "main": "server/server.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node server/server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/soundglom/getmusiclive-fetch-service/issues"
   },
-  "homepage": "https://github.com/soundglom/getmusiclive-fetch-service#readme"
+  "homepage": "https://github.com/soundglom/getmusiclive-fetch-service#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
